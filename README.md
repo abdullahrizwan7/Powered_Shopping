@@ -1,12 +1,15 @@
-# Voice-Powered Shopping Concierge
+# Powered Shopping (Voice-Powered Shopping Concierge)
 
-Full-stack AI shopping assistant with voice commands.
+Full-stack shopping assistant with voice + AI-driven search, filters, and cart actions.
+
+[![Take a look](https://img.shields.io/badge/Take%20a%20look-Live%20Website-7c3aed?style=for-the-badge)](https://aishopping-475ab.web.app/)
 
 ## Stack
 - Frontend: React + Vite
 - Backend: Node.js + Express
 - Product source: FakeStore API with local JSON fallback
 - Voice: Web Speech API (SpeechRecognition + SpeechSynthesis)
+- Hosting: Firebase Hosting (client)
 
 ## Features
 - Voice start/stop + optional continuous mode
@@ -17,6 +20,23 @@ Full-stack AI shopping assistant with voice commands.
 - Spoken AI responses
 - Basic personalization (last category memory + recommendations)
 - Conversation history panel
+- AI “doing the task” UI effects (thinking chips, cursor ghost, scrolling focus, shake/search states)
+
+## Live demo
+- Website: https://aishopping-475ab.web.app/
+
+## Voice examples
+- `hello mike` (wake word)
+- `show nike shoes under 2000`
+- `top rated headphones under 5000`
+- `add item number 2 to cart`
+- `remove from cart nike`
+- `checkout`
+
+## Docs
+- UI Guide: `docs/USER_INTERFACE_GUIDE.pdf`
+- Project Report: `docs/PROJECT_REPORT.pdf`
+- Slides/Decks: `docs/` (PPTX)
 
 ## Run locally
 
@@ -27,7 +47,9 @@ npm run dev
 ```
 
 Server: `http://127.0.0.1:5050`  
-Client: `http://localhost:5173` by default, or the next available localhost port if `5173` is busy
+Client: `http://127.0.0.1:5173` by default, or the next available localhost port if `5173` is busy
+
+Tip: to expose the client on your LAN, run with `CLIENT_HOST=0.0.0.0` (and make sure Firebase Authorized domains include the hostname you open in the browser).
 
 ## API routes
 - `GET /api/products`
