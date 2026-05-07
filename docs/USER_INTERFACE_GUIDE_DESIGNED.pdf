@@ -1,0 +1,1572 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+4 0 obj
+<< /Length 752 >>
+stream
+0.055 0.184 0.318 rg
+0 0 595.28 841.89 re f
+0.086 0.62 0.62 rg
+0 831.89 595.28 10 re f
+0.086 0.62 0.62 rg
+0 0 595.28 26 re f
+0.086 0.62 0.62 rg
+44 665.89 507.28 2 re f
+BT
+/F2 33 Tf
+1 1 1 rg
+1 0 0 1 44 631.89 Tm
+(Powered Shopping - User Interface Interaction Guide) Tj
+ET
+BT
+/F1 19 Tf
+0.95 0.98 1 rg
+1 0 0 1 44 593.89 Tm
+(User Interface Interaction Guide) Tj
+ET
+BT
+/F1 12 Tf
+0.95 0.98 1 rg
+1 0 0 1 44 555.89 Tm
+(A visual walkthrough of how users interact with the app) Tj
+ET
+BT
+/F1 11 Tf
+0.95 0.98 1 rg
+1 0 0 1 44 497.89 Tm
+(Generated on: 2026-04-20) Tj
+ET
+BT
+/F1 11 Tf
+0.95 0.98 1 rg
+1 0 0 1 44 479.89 Tm
+(Audience: End users and demo reviewers) Tj
+ET
+BT
+/F1 10 Tf
+0.95 0.98 1 rg
+1 0 0 1 44 70 Tm
+(Designed report version generated automatically) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 5188 >>
+stream
+0.972 0.98 0.988 rg
+0 0 595.28 841.89 re f
+0.055 0.184 0.318 rg
+0 787.89 595.28 54 re f
+0.086 0.62 0.62 rg
+0 787.89 595.28 4 re f
+BT
+/F2 12 Tf
+0.95 0.98 1 rg
+1 0 0 1 44 809.89 Tm
+(Powered Shopping  |  User Interaction Guide) Tj
+ET
+BT
+/F1 10 Tf
+0.95 0.98 1 rg
+1 0 0 1 503.28 809.89 Tm
+(Page 2) Tj
+ET
+0.89 0.94 0.99 rg
+40 749.89 515.28 24 re f
+0.086 0.62 0.62 rg
+40 749.89 6 24 re f
+BT
+/F2 13 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 54 757.89 Tm
+(1. What this app is for) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 721.89 Tm
+(Powered Shopping is a voice-enabled shopping interface where you can:) Tj
+ET
+0.086 0.62 0.62 rg
+52 707.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 704.89 Tm
+(sign in) Tj
+ET
+0.086 0.62 0.62 rg
+52 691.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 688.89 Tm
+(search products by typing or voice) Tj
+ET
+0.086 0.62 0.62 rg
+52 675.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 672.89 Tm
+(add/remove items in cart) Tj
+ET
+0.086 0.62 0.62 rg
+52 659.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 656.89 Tm
+(ask for recommendations) Tj
+ET
+0.086 0.62 0.62 rg
+52 643.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 640.89 Tm
+(complete checkout in guided steps) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 616.89 Tm
+(You can use it in two ways:) Tj
+ET
+0.086 0.62 0.62 rg
+52 602.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 599.89 Tm
+(Voice-first mode \(speak commands\)) Tj
+ET
+0.086 0.62 0.62 rg
+52 586.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 583.89 Tm
+(Manual mode \(type commands and use on-screen buttons\)) Tj
+ET
+0.89 0.94 0.99 rg
+40 541.89 515.28 24 re f
+0.086 0.62 0.62 rg
+40 541.89 6 24 re f
+BT
+/F2 13 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 54 549.89 Tm
+(2. User journey at a glance) Tj
+ET
+BT
+/F2 11 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 48 513.89 Tm
+(1.) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 67.88 513.89 Tm
+(Open app and sign in \(Email/Password or Google\).) Tj
+ET
+BT
+/F2 11 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 48 497.89 Tm
+(2.) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 67.88 497.89 Tm
+(Land on dashboard with navigation menu and live status chips.) Tj
+ET
+BT
+/F2 11 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 48 481.89 Tm
+(3.) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 67.88 481.89 Tm
+(Browse products in Shop view or use Voice Copilot.) Tj
+ET
+BT
+/F2 11 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 48 465.89 Tm
+(4.) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 67.88 465.89 Tm
+(Add items to cart from product cards or commands.) Tj
+ET
+BT
+/F2 11 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 48 449.89 Tm
+(5.) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 67.88 449.89 Tm
+(Open Checkout and complete 3-step flow.) Tj
+ET
+BT
+/F2 11 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 48 433.89 Tm
+(6.) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 67.88 433.89 Tm
+(Place order and continue shopping.) Tj
+ET
+0.89 0.94 0.99 rg
+40 391.89 515.28 24 re f
+0.086 0.62 0.62 rg
+40 391.89 6 24 re f
+BT
+/F2 13 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 54 399.89 Tm
+(3. Login screen \(Auth\)) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 363.89 Tm
+(What user sees:) Tj
+ET
+0.086 0.62 0.62 rg
+52 349.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 346.89 Tm
+(Login/Sign Up tabs) Tj
+ET
+0.086 0.62 0.62 rg
+52 333.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 330.89 Tm
+(Email and Password fields) Tj
+ET
+0.086 0.62 0.62 rg
+52 317.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 314.89 Tm
+(Continue with Google button) Tj
+ET
+0.086 0.62 0.62 rg
+52 301.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 298.89 Tm
+(Theme toggle \(Light/Dark\)) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 274.89 Tm
+(How user interacts:) Tj
+ET
+0.086 0.62 0.62 rg
+52 260.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 257.89 Tm
+(Choose `Login` if account exists, or `Sign Up` for new account.) Tj
+ET
+0.086 0.62 0.62 rg
+52 244.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 241.89 Tm
+(Enter credentials and submit.) Tj
+ET
+0.086 0.62 0.62 rg
+52 228.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 225.89 Tm
+(On success, dashboard opens.) Tj
+ET
+0.086 0.62 0.62 rg
+52 212.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 209.89 Tm
+(On failure, error message appears on same screen.) Tj
+ET
+0.89 0.94 0.99 rg
+40 167.89 515.28 24 re f
+0.086 0.62 0.62 rg
+40 167.89 6 24 re f
+BT
+/F2 13 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 54 175.89 Tm
+(4. Main dashboard layout) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 139.89 Tm
+(After login, the interface has these zones:) Tj
+ET
+0.086 0.62 0.62 rg
+52 125.88999999999999 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 122.88999999999999 Tm
+(Left sidebar navigation) Tj
+ET
+0.086 0.62 0.62 rg
+52 109.88999999999999 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 106.88999999999999 Tm
+(Top status bar) Tj
+ET
+0.086 0.62 0.62 rg
+52 93.88999999999999 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 90.88999999999999 Tm
+(Main content area \(changes by selected view\)) Tj
+ET
+0.086 0.62 0.62 rg
+52 77.88999999999999 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 74.88999999999999 Tm
+(Optional floating buttons \(`AI` and `Mic`\)) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4474 >>
+stream
+0.972 0.98 0.988 rg
+0 0 595.28 841.89 re f
+0.055 0.184 0.318 rg
+0 787.89 595.28 54 re f
+0.086 0.62 0.62 rg
+0 787.89 595.28 4 re f
+BT
+/F2 12 Tf
+0.95 0.98 1 rg
+1 0 0 1 44 809.89 Tm
+(Powered Shopping  |  User Interaction Guide) Tj
+ET
+BT
+/F1 10 Tf
+0.95 0.98 1 rg
+1 0 0 1 503.28 809.89 Tm
+(Page 3) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 757.89 Tm
+(### Sidebar menu options) Tj
+ET
+0.086 0.62 0.62 rg
+52 735.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 732.89 Tm
+(Mission Control \(overview\)) Tj
+ET
+0.086 0.62 0.62 rg
+52 719.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 716.89 Tm
+(Catalog AI \(shopping view\)) Tj
+ET
+0.086 0.62 0.62 rg
+52 703.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 700.89 Tm
+(Cart Queue) Tj
+ET
+0.086 0.62 0.62 rg
+52 687.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 684.89 Tm
+(Checkout) Tj
+ET
+0.086 0.62 0.62 rg
+52 671.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 668.89 Tm
+(Voice Copilot) Tj
+ET
+0.086 0.62 0.62 rg
+52 655.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 652.89 Tm
+(System \(settings\)) Tj
+ET
+0.086 0.62 0.62 rg
+52 639.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 636.89 Tm
+(Help \(FAQ\)) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 612.89 Tm
+(### Live status indicators users will notice) Tj
+ET
+0.086 0.62 0.62 rg
+52 590.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 587.89 Tm
+(Catalog Mode: `Live` or `Backup`) Tj
+ET
+0.086 0.62 0.62 rg
+52 574.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 571.89 Tm
+(Cart Items count) Tj
+ET
+0.086 0.62 0.62 rg
+52 558.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 555.89 Tm
+(Commands count) Tj
+ET
+0.086 0.62 0.62 rg
+52 542.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 539.89 Tm
+(Mic state: `Mic Live` or `Mic Idle`) Tj
+ET
+0.086 0.62 0.62 rg
+52 526.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 523.89 Tm
+(AI mode: `Online` or `Fallback`) Tj
+ET
+0.89 0.94 0.99 rg
+40 481.89 515.28 24 re f
+0.086 0.62 0.62 rg
+40 481.89 6 24 re f
+BT
+/F2 13 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 54 489.89 Tm
+(5. Overview \(Mission Control\)) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 453.89 Tm
+(Purpose:) Tj
+ET
+0.086 0.62 0.62 rg
+52 439.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 436.89 Tm
+(Quick start experience for first-time users.) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 412.89 Tm
+(User actions available:) Tj
+ET
+0.086 0.62 0.62 rg
+52 398.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 395.89 Tm
+(Start Shopping) Tj
+ET
+0.086 0.62 0.62 rg
+52 382.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 379.89 Tm
+(Open Voice Assistant) Tj
+ET
+0.086 0.62 0.62 rg
+52 366.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 363.89 Tm
+(Go to Checkout) Tj
+ET
+0.086 0.62 0.62 rg
+52 350.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 347.89 Tm
+(Quick category buttons) Tj
+ET
+0.086 0.62 0.62 rg
+52 334.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 331.89 Tm
+(One-click sample command buttons) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 307.89 Tm
+(This screen helps users begin without needing setup knowledge.) Tj
+ET
+0.89 0.94 0.99 rg
+40 264.89 515.28 24 re f
+0.086 0.62 0.62 rg
+40 264.89 6 24 re f
+BT
+/F2 13 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 54 272.89 Tm
+(6. Shop view \(Catalog AI\)) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 236.89 Tm
+(This is the primary browsing screen.) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 211.89 Tm
+(### Product interaction) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 186.89 Tm
+(Each product card shows:) Tj
+ET
+0.086 0.62 0.62 rg
+52 172.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 169.89 Tm
+(image) Tj
+ET
+0.086 0.62 0.62 rg
+52 156.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 153.89 Tm
+(name) Tj
+ET
+0.086 0.62 0.62 rg
+52 140.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 137.89 Tm
+(category) Tj
+ET
+0.086 0.62 0.62 rg
+52 124.88999999999999 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 121.88999999999999 Tm
+(INR price) Tj
+ET
+0.086 0.62 0.62 rg
+52 108.88999999999999 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 105.88999999999999 Tm
+(rating) Tj
+ET
+0.086 0.62 0.62 rg
+52 92.88999999999999 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 89.88999999999999 Tm
+(`Queue with AI` button) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 65.88999999999999 Tm
+(When user taps `Queue with AI`:) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4620 >>
+stream
+0.972 0.98 0.988 rg
+0 0 595.28 841.89 re f
+0.055 0.184 0.318 rg
+0 787.89 595.28 54 re f
+0.086 0.62 0.62 rg
+0 787.89 595.28 4 re f
+BT
+/F2 12 Tf
+0.95 0.98 1 rg
+1 0 0 1 44 809.89 Tm
+(Powered Shopping  |  User Interaction Guide) Tj
+ET
+BT
+/F1 10 Tf
+0.95 0.98 1 rg
+1 0 0 1 503.28 809.89 Tm
+(Page 4) Tj
+ET
+0.086 0.62 0.62 rg
+52 760.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 757.89 Tm
+(item is added to cart) Tj
+ET
+0.086 0.62 0.62 rg
+52 744.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 741.89 Tm
+(cart count and total update immediately) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 717.89 Tm
+(### Smart filters users can control) Tj
+ET
+0.086 0.62 0.62 rg
+52 695.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 692.89 Tm
+(Search text) Tj
+ET
+0.086 0.62 0.62 rg
+52 679.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 676.89 Tm
+(Category) Tj
+ET
+0.086 0.62 0.62 rg
+52 663.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 660.89 Tm
+(Sort \(default / price low-high / price high-low / highest rated\)) Tj
+ET
+0.086 0.62 0.62 rg
+52 647.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 644.89 Tm
+(Max price) Tj
+ET
+0.086 0.62 0.62 rg
+52 631.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 628.89 Tm
+(Minimum rating) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 604.89 Tm
+(Buttons:) Tj
+ET
+0.086 0.62 0.62 rg
+52 590.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 587.89 Tm
+(`Apply` runs current filter set) Tj
+ET
+0.086 0.62 0.62 rg
+52 574.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 571.89 Tm
+(`Reset` clears filter inputs) Tj
+ET
+0.89 0.94 0.99 rg
+40 529.89 515.28 24 re f
+0.086 0.62 0.62 rg
+40 529.89 6 24 re f
+BT
+/F2 13 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 54 537.89 Tm
+(7. Voice Copilot interaction) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 501.89 Tm
+(Voice panel supports three input styles:) Tj
+ET
+0.086 0.62 0.62 rg
+52 487.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 484.89 Tm
+(Live mic stream \(`Activate Voice Stream`\)) Tj
+ET
+0.086 0.62 0.62 rg
+52 471.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 468.89 Tm
+(Fallback recorder \(`Record Voice Command`\)) Tj
+ET
+0.086 0.62 0.62 rg
+52 455.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 452.89 Tm
+(Manual text command box) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 428.89 Tm
+(### Continuous mode) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 403.89 Tm
+(If enabled, app keeps listening after each command until user stops it.) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 378.89 Tm
+(### Sample commands users can speak/type) Tj
+ET
+0.086 0.62 0.62 rg
+52 356.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 353.89 Tm
+("Find premium headphones under 5000") Tj
+ET
+0.086 0.62 0.62 rg
+52 340.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 337.89 Tm
+("Show top rated sneakers") Tj
+ET
+0.086 0.62 0.62 rg
+52 324.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 321.89 Tm
+("Add the first result to cart") Tj
+ET
+0.086 0.62 0.62 rg
+52 308.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 305.89 Tm
+("Remove smartwatch from cart") Tj
+ET
+0.086 0.62 0.62 rg
+52 292.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 289.89 Tm
+("Recommend trending gadgets") Tj
+ET
+0.086 0.62 0.62 rg
+52 276.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 273.89 Tm
+("Prepare checkout") Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 249.89 Tm
+(### What user gets back) Tj
+ET
+0.086 0.62 0.62 rg
+52 227.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 224.89 Tm
+(Spoken response \(if Voice Replies setting is ON\)) Tj
+ET
+0.086 0.62 0.62 rg
+52 211.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 208.89 Tm
+(Updated product list/cart/recommendations) Tj
+ET
+0.086 0.62 0.62 rg
+52 195.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 192.89 Tm
+(Conversation history entry) Tj
+ET
+0.89 0.94 0.99 rg
+40 150.89 515.28 24 re f
+0.086 0.62 0.62 rg
+40 150.89 6 24 re f
+BT
+/F2 13 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 54 158.89 Tm
+(8. Cart interaction \(Cart Queue\)) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 122.88999999999999 Tm
+(Cart panel shows:) Tj
+ET
+0.086 0.62 0.62 rg
+52 108.88999999999999 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 105.88999999999999 Tm
+(all selected items) Tj
+ET
+0.086 0.62 0.62 rg
+52 92.88999999999999 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 89.88999999999999 Tm
+(quantity x item price) Tj
+ET
+0.086 0.62 0.62 rg
+52 76.88999999999999 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 73.88999999999999 Tm
+(total cart value) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4714 >>
+stream
+0.972 0.98 0.988 rg
+0 0 595.28 841.89 re f
+0.055 0.184 0.318 rg
+0 787.89 595.28 54 re f
+0.086 0.62 0.62 rg
+0 787.89 595.28 4 re f
+BT
+/F2 12 Tf
+0.95 0.98 1 rg
+1 0 0 1 44 809.89 Tm
+(Powered Shopping  |  User Interaction Guide) Tj
+ET
+BT
+/F1 10 Tf
+0.95 0.98 1 rg
+1 0 0 1 503.28 809.89 Tm
+(Page 5) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 757.89 Tm
+(User actions:) Tj
+ET
+0.086 0.62 0.62 rg
+52 743.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 740.89 Tm
+(`Remove` individual items) Tj
+ET
+0.086 0.62 0.62 rg
+52 727.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 724.89 Tm
+(`Open Checkout Flow` for guided 3-step checkout) Tj
+ET
+0.086 0.62 0.62 rg
+52 711.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 708.89 Tm
+(`Instant Checkout` for fast direct checkout) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 684.89 Tm
+(If cart is empty, panel shows "Cart is empty." and checkout buttons stay disabled.) Tj
+ET
+0.89 0.94 0.99 rg
+40 641.89 515.28 24 re f
+0.086 0.62 0.62 rg
+40 641.89 6 24 re f
+BT
+/F2 13 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 54 649.89 Tm
+(9. Checkout interaction \(3-step\)) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 613.89 Tm
+(Step 1: Delivery) Tj
+ET
+0.086 0.62 0.62 rg
+52 599.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 596.89 Tm
+(full name, email, phone, address, city, zip) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 572.89 Tm
+(Step 2: Payment) Tj
+ET
+0.086 0.62 0.62 rg
+52 558.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 555.89 Tm
+(choose Card / UPI / Cash on Delivery) Tj
+ET
+0.086 0.62 0.62 rg
+52 542.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 539.89 Tm
+(card mode asks for name and last 4 digits) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 515.89 Tm
+(Step 3: Review) Tj
+ET
+0.086 0.62 0.62 rg
+52 501.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 498.89 Tm
+(shipping details) Tj
+ET
+0.086 0.62 0.62 rg
+52 485.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 482.89 Tm
+(contact details) Tj
+ET
+0.086 0.62 0.62 rg
+52 469.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 466.89 Tm
+(payment type) Tj
+ET
+0.086 0.62 0.62 rg
+52 453.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 450.89 Tm
+(order summary) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 426.89 Tm
+(Pricing shown to user:) Tj
+ET
+0.086 0.62 0.62 rg
+52 412.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 409.89 Tm
+(Subtotal) Tj
+ET
+0.086 0.62 0.62 rg
+52 396.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 393.89 Tm
+(Shipping \(free above threshold\)) Tj
+ET
+0.086 0.62 0.62 rg
+52 380.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 377.89 Tm
+(Tax) Tj
+ET
+0.086 0.62 0.62 rg
+52 364.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 361.89 Tm
+(Final payable amount) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 337.89 Tm
+(On successful order:) Tj
+ET
+0.086 0.62 0.62 rg
+52 323.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 320.89 Tm
+(confirmation screen appears) Tj
+ET
+0.086 0.62 0.62 rg
+52 307.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 304.89 Tm
+(shows Order ID and amount paid) Tj
+ET
+0.086 0.62 0.62 rg
+52 291.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 288.89 Tm
+(`Continue Shopping` takes user back to browsing) Tj
+ET
+0.89 0.94 0.99 rg
+40 246.89 515.28 24 re f
+0.086 0.62 0.62 rg
+40 246.89 6 24 re f
+BT
+/F2 13 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 54 254.89 Tm
+(10. Settings interaction \(System\)) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 218.89 Tm
+(User can toggle:) Tj
+ET
+0.086 0.62 0.62 rg
+52 204.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 201.89 Tm
+(Voice replies) Tj
+ET
+0.086 0.62 0.62 rg
+52 188.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 185.89 Tm
+(AI assistant mode) Tj
+ET
+0.086 0.62 0.62 rg
+52 172.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 169.89 Tm
+(Auto-open cart after add) Tj
+ET
+0.086 0.62 0.62 rg
+52 156.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 153.89 Tm
+(Show floating microphone buttons) Tj
+ET
+0.086 0.62 0.62 rg
+52 140.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 137.89 Tm
+(Compact layout density) Tj
+ET
+0.086 0.62 0.62 rg
+52 124.88999999999999 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 121.88999999999999 Tm
+(High contrast mode) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 97.88999999999999 Tm
+(Utility actions:) Tj
+ET
+0.086 0.62 0.62 rg
+52 83.88999999999999 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 80.88999999999999 Tm
+(Clear conversation history) Tj
+ET
+0.086 0.62 0.62 rg
+52 67.88999999999999 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 64.88999999999999 Tm
+(Clear saved last category) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 4617 >>
+stream
+0.972 0.98 0.988 rg
+0 0 595.28 841.89 re f
+0.055 0.184 0.318 rg
+0 787.89 595.28 54 re f
+0.086 0.62 0.62 rg
+0 787.89 595.28 4 re f
+BT
+/F2 12 Tf
+0.95 0.98 1 rg
+1 0 0 1 44 809.89 Tm
+(Powered Shopping  |  User Interaction Guide) Tj
+ET
+BT
+/F1 10 Tf
+0.95 0.98 1 rg
+1 0 0 1 503.28 809.89 Tm
+(Page 6) Tj
+ET
+0.086 0.62 0.62 rg
+52 760.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 757.89 Tm
+(Reset all settings to defaults) Tj
+ET
+0.89 0.94 0.99 rg
+40 715.89 515.28 24 re f
+0.086 0.62 0.62 rg
+40 715.89 6 24 re f
+BT
+/F2 13 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 54 723.89 Tm
+(11. Help and FAQ) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 687.89 Tm
+(Help section gives user-readable answers for:) Tj
+ET
+0.086 0.62 0.62 rg
+52 673.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 670.89 Tm
+(how to start voice commands) Tj
+ET
+0.086 0.62 0.62 rg
+52 657.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 654.89 Tm
+(shopping without voice) Tj
+ET
+0.086 0.62 0.62 rg
+52 641.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 638.89 Tm
+(backup catalog behavior) Tj
+ET
+0.086 0.62 0.62 rg
+52 625.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 622.89 Tm
+(cart persistence behavior) Tj
+ET
+0.086 0.62 0.62 rg
+52 609.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 606.89 Tm
+(supported command types) Tj
+ET
+0.89 0.94 0.99 rg
+40 564.89 515.28 24 re f
+0.086 0.62 0.62 rg
+40 564.89 6 24 re f
+BT
+/F2 13 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 54 572.89 Tm
+(12. Fallback behavior users should know) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 536.89 Tm
+(To keep experience stable, interface auto-falls back when a service is down:) Tj
+ET
+0.086 0.62 0.62 rg
+52 522.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 519.89 Tm
+(If live catalog fails: backup catalog is used.) Tj
+ET
+0.086 0.62 0.62 rg
+52 506.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 503.89 Tm
+(If browser speech recognition fails: fallback recorder is available.) Tj
+ET
+0.086 0.62 0.62 rg
+52 490.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 487.89 Tm
+(If AI assistant mode fails: deterministic command parser handles common commands.) Tj
+ET
+0.086 0.62 0.62 rg
+52 474.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 471.89 Tm
+(If cloud cart storage is unavailable: cart runs in temporary local memory mode.) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 447.89 Tm
+(From user perspective, app still works with minor feature limitations.) Tj
+ET
+0.89 0.94 0.99 rg
+40 404.89 515.28 24 re f
+0.086 0.62 0.62 rg
+40 404.89 6 24 re f
+BT
+/F2 13 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 54 412.89 Tm
+(13. Mobile interaction notes) Tj
+ET
+0.086 0.62 0.62 rg
+52 379.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 376.89 Tm
+(Sidebar opens with `Menu` button.) Tj
+ET
+0.086 0.62 0.62 rg
+52 363.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 360.89 Tm
+(Floating `AI` and `Mic` buttons give quick access.) Tj
+ET
+0.086 0.62 0.62 rg
+52 347.89 5 5 re f
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 64 344.89 Tm
+(Core flows \(search, add, cart, checkout\) are available on mobile and desktop.) Tj
+ET
+0.89 0.94 0.99 rg
+40 302.89 515.28 24 re f
+0.086 0.62 0.62 rg
+40 302.89 6 24 re f
+BT
+/F2 13 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 54 310.89 Tm
+(14. Quick first-time user script \(demo ready\)) Tj
+ET
+BT
+/F2 11 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 48 274.89 Tm
+(1.) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 67.88 274.89 Tm
+(Login with email/password.) Tj
+ET
+BT
+/F2 11 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 48 258.89 Tm
+(2.) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 67.88 258.89 Tm
+(Open `Catalog AI`.) Tj
+ET
+BT
+/F2 11 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 48 242.89 Tm
+(3.) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 67.88 242.89 Tm
+(Say: "Show sneakers under 3000".) Tj
+ET
+BT
+/F2 11 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 48 226.89 Tm
+(4.) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 67.88 226.89 Tm
+(Add one item using card button.) Tj
+ET
+BT
+/F2 11 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 48 210.89 Tm
+(5.) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 67.88 210.89 Tm
+(Open cart and remove one item.) Tj
+ET
+BT
+/F2 11 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 48 194.89 Tm
+(6.) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 67.88 194.89 Tm
+(Go to checkout and complete all 3 steps.) Tj
+ET
+BT
+/F2 11 Tf
+0.055 0.184 0.318 rg
+1 0 0 1 48 178.89 Tm
+(7.) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 67.88 178.89 Tm
+(Place order and show confirmation screen.) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 154.89 Tm
+(---) Tj
+ET
+BT
+/F1 11 Tf
+0.176 0.215 0.266 rg
+1 0 0 1 48 129.89 Tm
+(End of user interaction guide.) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000000160 00000 n 
+0000000250 00000 n 
+0000001053 00000 n 
+0000001195 00000 n 
+0000006435 00000 n 
+0000006577 00000 n 
+0000011103 00000 n 
+0000011245 00000 n 
+0000015918 00000 n 
+0000016062 00000 n 
+0000020829 00000 n 
+0000020973 00000 n 
+0000025643 00000 n 
+0000025787 00000 n 
+trailer
+<< /Size 17 /Root 16 0 R >>
+startxref
+25837
+%%EOF
